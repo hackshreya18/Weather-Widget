@@ -1,0 +1,15 @@
+.InfoBox{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#card{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    /* border: 0.5px solid grey; */
+}
+
+.card_container{
+    border: 0.5px solid rgba(153, 149, 149, 0.842);
+    box-shadow: 10px 10px 5px 12px lightblue;
+}
